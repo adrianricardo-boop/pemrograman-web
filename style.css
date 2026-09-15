@@ -1,0 +1,30 @@
+body {
+    padding: 0% 20%;
+    background-color: #ad9090;
+    margin: 0%;
+}
+
+h1 {
+    color: rgb(41, 7, 24);
+    text-align: center; 
+}
+
+#navbar {
+    background-color: #251616;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+#home {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+#about {
+    color: rgb(230, 210, 210);
+    background-color: #251616;
+    padding: 10px;
+    border-radius: 10px;
+}
+
